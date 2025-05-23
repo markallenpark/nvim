@@ -21,3 +21,4 @@ python-pip
 fd
 tree-sitter-cli
 
+You may also need to install additional packages for LSP's to work with your desired languages, use the command `:checkhealth` inside nvim for details.
