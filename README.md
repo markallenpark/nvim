@@ -17,4 +17,4 @@ lua51
 imagemagick
 graphicsmagick
 python-pynvim
-
+python-pip
