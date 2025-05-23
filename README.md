@@ -19,5 +19,5 @@ graphicsmagick
 python-pynvim
 python-pip
 fd
-tree-sitter
+tree-sitter-cli
 
