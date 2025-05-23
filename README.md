@@ -18,3 +18,4 @@ imagemagick
 graphicsmagick
 python-pynvim
 python-pip
+fd
