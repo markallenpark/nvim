@@ -31,7 +31,8 @@ return {
       ensure_installed = {
         "ts_ls",
         "lua_ls",
-        "ruff"
+        "ruff",
+        "intelephense",
       },
       handlers = {
         function(server_name)
